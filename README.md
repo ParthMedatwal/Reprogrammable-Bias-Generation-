@@ -13,8 +13,7 @@
 ## 🌟 Project Overview
 
 This repository showcases an **advanced reprogrammable bias generation system** developed during my prestigious internship at the **Indian Space Research Organisation (ISRO)** in Ahmedabad. The project represents a cutting-edge embedded solution designed for critical space applications where precision, reliability, and real-time control are paramount.
-
-**Duration:** May 5, 2023 - July 15, 2023  
+  
 **Institution:** Space Applications Centre (ISRO), Ahmedabad  
 **Department:** Sensor Front-End Development / Sensors Development Area (SFED/SEG/SEDA)
 
