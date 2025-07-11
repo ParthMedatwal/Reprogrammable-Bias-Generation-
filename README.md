@@ -19,7 +19,7 @@ This repository showcases an **advanced reprogrammable bias generation system** 
 
 ## 🎯 Mission Statement
 
-Engineered a sophisticated **MSP430FR5969-based embedded system** that converts PWM signals into ultra-precise DC bias voltages for next-generation satellite systems, contributing to ISRO's space exploration initiatives.
+To develop an integrated PWM-to-DC voltage conversion system comprising custom microcontroller design, analog circuitry, and PCB fabrication for precision motor control applications. To engineer a complete signal conditioning solution enabling variable DC output through duty cycle modulation, successfully implemented for automated camera positioning & electro-mechanical device control used on a spacecraft.
 
 ---
 
