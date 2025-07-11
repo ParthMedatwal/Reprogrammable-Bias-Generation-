@@ -1,11 +1,6 @@
 # 🚀 Reprogrammable Bias Generation System
 ### *Space-Grade Embedded Solution for Critical Satellite Applications*
 
-[![ISRO](https://img.shields.io/badge/ISRO-Space%20Applications%20Centre-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://www.isro.gov.in/)
-[![MSP430](https://img.shields.io/badge/MSP430FR5969-Texas%20Instruments-red?style=for-the-badge)](https://www.ti.com/product/MSP430FR5969)
-[![CCS](https://img.shields.io/badge/Code%20Composer%20Studio-Development-blue?style=for-the-badge)](https://www.ti.com/tool/CCSTUDIO)
-[![OrCAD](https://img.shields.io/badge/OrCAD-PCB%20Design-green?style=for-the-badge)](https://www.orcad.com/)
-
 > **⚠️ Confidentiality Notice:** Due to ISRO's confidentiality policies, certain technical details and implementation specifics have been generalized while maintaining the educational value of this project.
 
 ---
