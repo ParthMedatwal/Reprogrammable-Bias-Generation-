@@ -98,55 +98,6 @@ This system enables precise control of:
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 reprogrammable-bias-generation/
-├── 📁 firmware/
-│   ├── 🔧 msp430_pwm_generation.c
-│   ├── 🔧 spi_communication.c
-│   └── 📋 timer_config.h
-├── 📁 hardware/
-│   ├── 🔌 pcb_design/
-│   ├── 📐 sallen_key_filter/
-│   └── 📊 simulation_results/
-├── 📁 documentation/
-│   ├── 📖 technical_report.pdf
-│   ├── 📈 performance_analysis/
-│   └── 🔬 test_results/
-├── 📁 tools/
-│   ├── 🛠️ ccs_projects/
-│   └── 📟 orcad_schematics/
-└── 📄 README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- **Code Composer Studio (CCS)** v5.5 or higher
-- **MSP430FR5969 LaunchPad** development board
-- **OrCAD/Altium Designer** for PCB analysis
-- **LTSpice** for circuit simulation
-
-### Hardware Setup
-1. Connect MSP430FR5969 LaunchPad to your development system
-2. Assemble the Sallen-Key filter circuit as per schematic
-3. Configure SPI communication interface
-4. Connect oscilloscope for signal monitoring
-
-### Firmware Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/reprogrammable-bias-generation.git
-
-# Open in Code Composer Studio
-# Import the CCS project from firmware/
-# Build and flash to MSP430FR5969
-```
-
----
 
 ## 📈 Performance Results
 
@@ -235,11 +186,6 @@ The system demonstrates exceptional linearity with R² = 0.999996:
 
 ---
 
-## 🔒 Confidentiality & Ethics
-
-This project adheres to **ISRO's confidentiality guidelines** while sharing valuable educational insights about embedded systems design, signal processing, and space electronics engineering.
-
----
 
 ## 🎓 Learning Outcomes
 
