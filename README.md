@@ -175,7 +175,12 @@ The system demonstrates exceptional linearity with R² = 0.999996:
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
 ![OrCAD](https://img.shields.io/badge/OrCAD-FF6B35?style=for-the-badge)
 ![LTSpice](https://img.shields.io/badge/LTSpice-8B0000?style=for-the-badge)
-![MSP430](https://img.shields.io/badge/MSP430-E30613?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![Code Composer Studio](https://img.shields.io/badge/Code%20Composer%20Studio-E30613?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB%20Design%20%26%20Fabrication-2E8B57?style=for-the-badge&logo=CircuitVerse&logoColor=white)
+![Microcontroller](https://img.shields.io/badge/Microcontroller%20Design-4169E1?style=for-the-badge&logo=Arduino&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-FF6347?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
+![UART](https://img.shields.io/badge/UART-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Hilrc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
 
 </div>
 
